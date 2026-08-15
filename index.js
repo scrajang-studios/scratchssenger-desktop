@@ -10,7 +10,7 @@ const createWindow = () => {
     }
   })
 
-  win.loadFile('../scratchssenger/msngrv144.html')
+  win.loadFile('./v144.html')
 }
 
 app.whenReady().then(() => {

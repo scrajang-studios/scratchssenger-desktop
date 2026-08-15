@@ -15,7 +15,8 @@
   "dependencies": {
     "electron": "^43.4.0",
     "electron-compile": "^6.4.4",
-    "electron-squirrel-startup": "^1.0.1"
+    "electron-squirrel-startup": "^1.0.1",
+    "scratchssenger": "github:scrajang-studios/scratchssenger#main"
   },
   "devDependencies": {
     "babel-plugin-transform-async-to-generator": "^6.24.1",
